@@ -9,7 +9,7 @@
     },
     {
         "ParameterKey": "WebAppLaunchConfigInstanceType",
-        "ParameterValue": "t2.micro" 
+        "ParameterValue": "t2.medium" 
         
     }
     
